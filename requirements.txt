@@ -1,0 +1,4 @@
+#requeriments.txt
+snowflake-snowpark-python
+streamlist
+request
